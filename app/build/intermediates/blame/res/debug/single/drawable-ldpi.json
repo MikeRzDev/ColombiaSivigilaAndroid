@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_update.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_update.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\atras.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-ldpi\\atras.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\actualizar.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-ldpi\\actualizar.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\acerca_de.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-ldpi\\acerca_de.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\entidades.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-ldpi\\entidades.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_info.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\buscar.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-ldpi\\buscar.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\acerca_de2.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-ldpi\\acerca_de2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\compartir.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-ldpi\\compartir.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\diapo2.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-ldpi\\diapo2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_search.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    }
+]

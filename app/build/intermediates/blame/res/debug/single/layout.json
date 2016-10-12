@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\textospinnernegro.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\textospinnernegro.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment_list_row.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busqueda_rapida.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\activity_busqueda_rapida.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_checkbox.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_listatexto.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\spinner_listatexto.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_lista.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\spinner_lista.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_row.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_section_header.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_facebook_share.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\activity_facebook_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar_stub.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabla.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\tabla.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_class_no_trasmisibles.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\activity_class_no_trasmisibles.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_class_externa.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\activity_class_externa.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publicar_info_busqueda.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\activity_publicar_info_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_image.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_friendpickerfragment.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ly_generalidades_cuatro_botones.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\ly_generalidades_cuatro_botones.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comovisualizarinfo.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\comovisualizarinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plantilla_apoyo.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\plantilla_apoyo.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result_busqueda_generalidades.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\result_busqueda_generalidades.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_activity_layout.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plantilla_generalidades_mejoras.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\plantilla_generalidades_mejoras.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\prueba_margenes.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\prueba_margenes.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_generalidades_sivigila.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\activity_generalidades_sivigila.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plantilla_acciones_salud.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\plantilla_acciones_salud.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\obligatorio.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\obligatorio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ly_generalidades_cuatro_botones_copia.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\ly_generalidades_cuatro_botones_copia.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ly_about.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\ly_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ly_main_copia.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\ly_main_copia.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_search_bar_layout.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ly_main.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\ly_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pantalla_principal.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\pantalla_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ly_acerca_de.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\ly_acerca_de.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\referlista_negra.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\referlista_negra.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listar_resultados_campos.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\listar_resultados_campos.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plantilla_diagnostico_diferencial.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\plantilla_diagnostico_diferencial.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actores_resultados.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\actores_resultados.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plantilla_generalidades.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\plantilla_generalidades.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_search_box.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_saludo_inicial.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\activity_saludo_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ly_actualizando.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\ly_actualizando.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\obligatorio_copia.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\obligatorio_copia.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_usersettingsfragment.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_facebookshare.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\fragment_facebookshare.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_class_trasmisibles.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout\\activity_class_trasmisibles.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_activity_circle_row.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.23.1\\res\\layout\\com_facebook_placepickerfragment.xml"
+    }
+]

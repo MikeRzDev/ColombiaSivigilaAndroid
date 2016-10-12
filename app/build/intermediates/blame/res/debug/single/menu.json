@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pantalla_principal.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\pantalla_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\generalidades.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\generalidades.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\class__trasmisibles.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\class__trasmisibles.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\acciones_salud.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\acciones_salud.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\class__externa.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\class__externa.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\directorio.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\directorio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ventana_rep_grafica_3inch.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\ventana_rep_grafica_3inch.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\visualizador__informacion.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\visualizador__informacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\saludo_inicial.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\saludo_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\result_busqueda_generalidades.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\result_busqueda_generalidades.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_compartir.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\menu_compartir.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\generalidades_cuatro_botones.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\generalidades_cuatro_botones.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\apoyo.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\apoyo.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\publicar_info_busqueda.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\publicar_info_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\informacion.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\informacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\visualizar_modo1.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\visualizar_modo1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actores_resultados.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\actores_resultados.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\listar_resultados.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\listar_resultados.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\descripcion.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\descripcion.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\class__no_trasmisibles.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\class__no_trasmisibles.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\generalidades_sivigila.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\generalidades_sivigila.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\acerca_de.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\acerca_de.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\diagnostico_diferencial.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\menu\\diagnostico_diferencial.xml"
+    }
+]

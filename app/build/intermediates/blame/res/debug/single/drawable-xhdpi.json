@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\buscar.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-xhdpi\\buscar.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\compartir.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-xhdpi\\compartir.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actualizar.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-xhdpi\\actualizar.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\atras.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-xhdpi\\atras.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_update.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_update.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\acerca_de.png",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\drawable-xhdpi\\acerca_de.png"
+    }
+]

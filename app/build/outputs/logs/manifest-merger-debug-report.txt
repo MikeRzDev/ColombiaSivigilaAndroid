@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:2:1-124:12
+	package
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:8:5-98
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:8:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:11:22-66
+application
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:13:5-122:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:3.23.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\3.23.1\AndroidManifest.xml:24:5-20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:18:9-45
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:16:9-46
+	android:theme
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:14:9-34
+activity#clases.MainActivity
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:21:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:23:13-45
+	android:logo
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:22:13-47
+activity#clases.Class_Trasmisibles
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:29:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:31:13-71
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:30:13-53
+activity#clases.Class_Externa
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:34:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:36:13-66
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:35:13-48
+activity#clases.Class_NoTrasmisibles
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:40:13-55
+activity#com.vigilatusalud_v3.Directorio
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:44:9-48:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:45:13-59
+activity#clases.ListarResultados
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:50:13-51
+activity#consultas.Generalidades
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:54:9-58:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:56:13-65
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:55:13-51
+activity#consultas.Apoyo
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:59:9-63:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:61:13-57
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:60:13-43
+activity#consultas.DiagnosticoDiferencial
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:64:9-68:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:67:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:66:13-75
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:65:13-60
+activity#consultas.AccionesSalud
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:69:9-73:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:72:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:71:13-66
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:70:13-51
+activity#com.vigilatusalud_v3.SaludoInicial
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:74:9-83:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:77:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:76:13-66
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:75:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:78:13-82:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:79:17-69
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:79:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:81:17-77
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:81:27-74
+activity#com.vigilatusalud_v3.PublicarInfoBusqueda
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:84:9-88:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:86:13-74
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:85:13-69
+activity#clases.GeneralidadesSivigila
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:89:9-93:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:91:13-74
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:90:13-56
+activity#com.vigilatusalud_v3.GeneralidadesCuatroBotones
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:95:9-99:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:97:13-80
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:96:13-75
+activity#com.vigilatusalud_v3.ResultBusquedaGeneralidades
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:100:9-104:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:103:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:102:13-81
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:101:13-76
+activity#com.vigilatusalud_v3.ActoresResultados
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:105:9-109:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:108:13-49
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:107:13-70
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:106:13-66
+activity#com.vigilatusalud_v3.AcercaDe
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:110:9-113:20
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:112:13-61
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:111:13-57
+activity#com.ipro.utils.redesSociales.FacebookShareActivity
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:115:9-117:69
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:117:13-66
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:116:13-78
+activity#com.facebook.LoginActivity
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:118:9-119:54
+	android:label
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:119:19-51
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:118:19-60
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:120:9-98
+	android:value
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:120:66-96
+	android:name
+		ADDED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml:120:20-65
+uses-sdk
+INJECTED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:3.23.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\3.23.1\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Documents\AndroidProjects\ColombiaSivigilaAndroid\app\src\main\AndroidManifest.xml

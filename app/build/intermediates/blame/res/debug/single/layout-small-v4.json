@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\plantilla_generalidades.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\plantilla_generalidades.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\ly_main.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\ly_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\activity_busqueda_rapida.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\activity_busqueda_rapida.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\activity_generalidades_sivigila.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\activity_generalidades_sivigila.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\plantilla_acciones_salud.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\plantilla_acciones_salud.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\activity_class_no_trasmisibles.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\activity_class_no_trasmisibles.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\ly_about.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\ly_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\plantilla_generalidades_mejoras.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\plantilla_generalidades_mejoras.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\ly_generalidades_cuatro_botones.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\ly_generalidades_cuatro_botones.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\comovisualizarinfo.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\comovisualizarinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\activity_class_trasmisibles.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\activity_class_trasmisibles.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\plantilla_apoyo.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\plantilla_apoyo.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\activity_class_externa.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\activity_class_externa.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\plantilla_diagnostico_diferencial.xml",
+        "source": "C:\\Users\\user\\Documents\\AndroidProjects\\ColombiaSivigilaAndroid\\app\\src\\main\\res\\layout-small\\plantilla_diagnostico_diferencial.xml"
+    }
+]
